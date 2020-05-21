@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bad Man Forward Bad Man Pull Up
 Use the left arrow to go back!
